@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "rohanbeldar.github.io/static/css/main.ff86c2cb.chunk.css",
-    "main.js": "rohanbeldar.github.io/static/js/main.6a4782b2.chunk.js",
-    "main.js.map": "rohanbeldar.github.io/static/js/main.6a4782b2.chunk.js.map",
-    "runtime~main.js": "rohanbeldar.github.io/static/js/runtime~main.0c271dce.js",
-    "runtime~main.js.map": "rohanbeldar.github.io/static/js/runtime~main.0c271dce.js.map",
-    "static/js/2.1afb2085.chunk.js": "rohanbeldar.github.io/static/js/2.1afb2085.chunk.js",
-    "static/js/2.1afb2085.chunk.js.map": "rohanbeldar.github.io/static/js/2.1afb2085.chunk.js.map",
-    "index.html": "rohanbeldar.github.io/index.html",
-    "precache-manifest.da7aa29ec4eaca6575d89308c79f5bcd.js": "rohanbeldar.github.io/precache-manifest.da7aa29ec4eaca6575d89308c79f5bcd.js",
-    "service-worker.js": "rohanbeldar.github.io/service-worker.js",
-    "static/css/main.ff86c2cb.chunk.css.map": "rohanbeldar.github.io/static/css/main.ff86c2cb.chunk.css.map",
-    "static/media/dp.png": "rohanbeldar.github.io/static/media/dp.c3ddee00.png",
-    "static/media/skyline.jpg": "rohanbeldar.github.io/static/media/skyline.6acccdd5.jpg"
+    "main.css": "/static/css/main.ff86c2cb.chunk.css",
+    "main.js": "/static/js/main.6a4782b2.chunk.js",
+    "main.js.map": "/static/js/main.6a4782b2.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.1afb2085.chunk.js": "/static/js/2.1afb2085.chunk.js",
+    "static/js/2.1afb2085.chunk.js.map": "/static/js/2.1afb2085.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9fd1bd4af32e8ae285ff4fdaf066db19.js": "/precache-manifest.9fd1bd4af32e8ae285ff4fdaf066db19.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ff86c2cb.chunk.css.map": "/static/css/main.ff86c2cb.chunk.css.map",
+    "static/media/dp.png": "/static/media/dp.c3ddee00.png",
+    "static/media/skyline.jpg": "/static/media/skyline.6acccdd5.jpg"
   }
 }
